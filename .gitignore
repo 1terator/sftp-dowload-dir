@@ -50,5 +50,5 @@ coverage.xml
 docs/_build/
 
 # Settings Files
-.env
-.db
+*.env
+*.db
